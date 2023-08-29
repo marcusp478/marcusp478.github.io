@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/database.png
 title: "Bank Database Application"
 date: 2022-04-23
 published: true
