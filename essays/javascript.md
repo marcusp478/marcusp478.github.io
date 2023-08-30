@@ -15,6 +15,7 @@ labels:
 
 I have not touched code in a very long time. Excluding the freeCodeCamp exercises and the practice WODs (Workout of The Day) we've done in class (ICS 314: Software Engineering) and on our own, the last time I typed a single line of code was probably a week or two before the end of the spring semester of 2022. 
 
+
 ## Fresh Material
 
 As of the time I'm writing this, I only have experience with programming in Java, C, and C++ thanks to my high school and college classes. However, it is unfortunate to say that we will not be using any of that in this class. Instead we will be using something that is very new to me: Javascript. Luckily enough, the syntax is very similar to the aforementioned languages despite Javascript working differently in certain ways. For example, something that I'm genuinely surprised by is the fact that arrays can be indexed with characters rather than numerically as seen in the solution for one of the practice WODs we've been assigned. I also think that arrays not being limited to a fixed size is pretty cool and I have a feeling that it could come in handy in specific cases. 
