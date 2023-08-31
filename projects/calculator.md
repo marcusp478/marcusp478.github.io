@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/clipartcalc.png
 title: "Calculator"
 date: 2021-10-20
 published: true
