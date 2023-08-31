@@ -25,7 +25,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Windows", "Unix", "PuTTY" ]
+      "keywords": [ "MacOS", "Windows", "Unix", "PuTTY", "Git/Github" ]
     }
   ],
   "education": [
