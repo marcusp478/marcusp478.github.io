@@ -43,10 +43,18 @@
     {
       "organization": "The Institute for Human Services",
       "website": "https://ihshawaii.org/",
-      "position": "",
+      "position": "Volunteer",
       "startDate": "2017",
       "endDate": "",
-      "summary": "Volunteered at a homeless shelter for my class project by distributing food to the sheltered homeless in the facility."
+      "summary": "Distributed food to the sheltered homeless in the facility for my school project."
+    },
+    {
+      "organization": "Hawaii Foodbank Inc.",
+      "website": "https://hawaiifoodbank.org/",
+      "position": "Volunteer",
+      "startDate": "2020",
+      "endDate": "",
+      "summary": "Sorted through packaged/canned goods by dismissing goods that are over their expiration date and keeping the ones that weren't."
     }
   ],
   "awards": [
