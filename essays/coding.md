@@ -9,7 +9,7 @@ labels:
 
 ---
 
-<img class="img-fluid" src="../img/code.jpg">
+<img class="img-fluid" src="../img/SE.png">
 
 ## Where It All Started
 
