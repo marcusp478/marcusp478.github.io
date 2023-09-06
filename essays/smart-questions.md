@@ -11,7 +11,7 @@ labels:
   - StackOverflow
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/stackoverflow.png">
+<img class="img-fluid" src="../img/stackoverflow.png">
 
 ## Stupid Questions Exist!
 
