@@ -1,3 +1,16 @@
+---
+layout: essay
+type: essay
+title: "What's The Deal With Coding Standards?"
+# All dates must be YYYY-MM-DD format!
+date: 2023-09-20
+published: true
+labels:
+  - ESLint
+---
+
+<img width="200px" class="rounded float-start pe-4" src="../img/js.png">
+
 ## Flashback
 
 Hearing about "coding standards" in this course brings me back to the first time I heard about them in my ICS 212 class. Off the top of my head, our instructor at the time had us follow these rules: indentations must be made using 4 spaces instead of a single tab, curly braces were to be placed on the line below the function declaration, and break statements and recursion were forbidden from ever being used. It was a bit difficult to adjust to these rules at first but it became much easier with repetition. I even grew to like the way the code looked. In fact, rather than writing out a convoluted solution, I feel as if restricting us from using recursion or break statements made our code much simpler and easier to follow. Now that I'm taking ICS 314, it suddenly became much easier to tell whether I'm following the coding standard or not thanks to ESLint. However, there are times when ESLint can get pretty annoying, especially when the pressure's on due to time constraints. Other than that, I really don't mind it at all. With that being said, I will be sharing with you my personal view points on coding standards and ESLint as of so far.
