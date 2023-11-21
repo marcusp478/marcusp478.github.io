@@ -22,7 +22,7 @@ For the experience WODs, I did not use AI simply because we were given a demonst
 
 ### In-class Practice WODs
 
-Generally, the experience WODs were assigned and due before we were given the in-class practice WODs. In my opinion, both were equal in difficulty and essentially covered the exact same material, so as long as you did the experience WODs and understood what you were doing, the in-class practice WODs shouldn't be hard to pull off. If there were a few things I didn't remember how to do, like the documentation for implementing a container fluid in React Bootstrap (which is <Container fluid> rather than <div class="container-fluid"> like in regular Bootstrap), I'd do a quick Google search out of habit.
+Generally, the experience WODs were assigned and due before we were given the in-class practice WODs. In my opinion, both were equal in difficulty and essentially covered the exact same material, so as long as you did the experience WODs and understood what you were doing, the in-class practice WODs shouldn't be hard to pull off. If there were a few things I didn't remember how to do, like the documentation for implementing a container fluid in React Bootstrap (which is ```<Container fluid>``` rather than ```<div class="container-fluid">``` like in regular Bootstrap), I'd do a quick Google search out of habit.
 
 ### In-class WODs
 
@@ -48,7 +48,7 @@ I haven't used AI for any of these things during my time here in 314. As I've me
 
 For the most part, a lot of the code we've written and the functions we are required to know how to use are pretty straightforward, especially with documentation that's easily accessible on Google. Along with external online sources, if something wasn't clicking for me, I'd refer to the sources provided on the course website, such as the demonstration videos for the homework assignments.
 
-### Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”
+### Quality assurance
 
 Although I haven't tried it myself, I imagine that AI would be useful in detecting bugs in small snippets of code. Though, I believe that many of the errors/bugs I had were easily detectable with a bit of tracing.
 
