@@ -10,49 +10,51 @@ labels:
   - Software Engineering
 ---
 
+<img class="img-fluid" src="../img/ChatGPT.jpg">
+
 Artificial Intelligence is a versatile tool that can be taken advantage of by students to obtain answers for their homework assignments or to complete their entire assignment within seconds, like an essay (although you generally shouldn't be doing that). For Software Engineering, it could be used to get the code you need in order to achieve whatever it is you need to write. However, despite how useful AI can be towards increasing your productivity, at the time of writing this, I've only used it 4 times during my time here in ICS 314, where 3 of the times were completely unrelated to the class.
 
 ## Personal Experience With AI
 
 As previously mentioned, I've used AI for almost none of the assignments we were given in this class, including the WODs, experiences, and essays, simply because it hasn't crossed my mind to do so and since there exists other options apart from using ChatGPT. In the event that I couldn't figure out the issues I was having during a WOD assignment, I opted to look something up on Google out of habit, whether it be an old forum post or the documentation of a React component or underscore function. As per the assignment instructions, I will talk about the different things AI could've been used for in this class and why I did or did not opt to use it and what I chose to do instead.
 
-### Experience WODs e.g. E18
+#### Experience WODs e.g. E18
 
 For the experience WODs, I did not use AI simply because we were given a demonstration video to watch after attempting it ourselves in order to ensure that we were on the correct track towards getting our solutions. I believe that each video was sufficient at explaining the material, so there was no need to search for additional sources.
 
-### In-class Practice WODs
+#### In-class Practice WODs
 
 Generally, the experience WODs were assigned and due before we were given the in-class practice WODs. In my opinion, both were equal in difficulty and essentially covered the exact same material, so as long as you did the experience WODs and understood what you were doing, the in-class practice WODs shouldn't be hard to pull off. If there were a few things I didn't remember how to do, like the documentation for implementing a container fluid in React Bootstrap (which is ```<Container fluid>``` rather than ```<div class="container-fluid">``` like in regular Bootstrap), I'd do a quick Google search out of habit.
 
-### In-class WODs
+#### In-class WODs
 
 Similar to the relationship between the in-class and experience WODs, the "real" WODs given to us during the second class of the week were very similar to the practice WOD that was assigned to us earlier in the week. Based on how each week went throughout this semseter, I found that as long as I did well on the experience and in-class WODs and made sure to understand the solutions for both of them, then it shouldn't be hard to apply what I learned to the "real" WOD. 
 
-### Essays
+#### Essays
 
 I haven't considered using AI for my essays since I usually have the time to do them myself anyway. If I ever need to search something up, it's because I feel like I absolutely cannot achieve whatever it is I need done on my own.
 
-### Final project
+#### Final project
 
 The only assignment in this class that I've used AI for is the final project, which is for a reason you're probably not thinking of: the title of my teams' web application. To give a bit of background information, our project idea is a service that allows UH Manoa students to borrow listed items on the site from other students so as to not spend money on something you only need temporarily. Since we didn't have any ideas on what to call it, we asked ChatGPT, "Come up with a name for an item lending service where users can list items they're willing to lend other people for a certain period of time or request items from others", which it came up with names like "ShareItHub", "LendCycle", "BorrowBuddy", and so on. Even though they were pretty decent names, we decided not to use any of them. However, this serves as an example of how AI can be advantageous over a Google search since you can ask it questions that normally would only be able to be answered by another human being.
 
-### Learning a concept / tutorial
+#### Learning a concept / tutorial
 
 The concepts we need to know in order to do well in this class is available to us through the videos, readings, and tutorials we were given to us via the ICS 314 course website. In the event that something was unclear or when doing an assignment later on, then a quick Google search proved to be sufficient enough. 
 
-### Answering a question in class or in Discord/Asking or answering a smart-question
+#### Answering a question in class or in Discord/Asking or answering a smart-question
 
 I haven't used AI for any of these things during my time here in 314. As I've mentioned a couple times previously, if I need the answer to something, I'll get what I need through Google or I'll ask a friend.
 
-### Coding example e.g. “give an example of using Underscore .pluck”/Explaining/Writing/Documenting Code
+#### Coding example e.g. “give an example of using Underscore .pluck”/Explaining/Writing/Documenting Code
 
 For the most part, a lot of the code we've written and the functions we are required to know how to use are pretty straightforward, especially with documentation that's easily accessible on Google. Along with external online sources, if something wasn't clicking for me, I'd refer to the sources provided on the course website, such as the demonstration videos for the homework assignments.
 
-### Quality assurance
+#### Quality assurance
 
 Although I haven't tried it myself, I imagine that AI would be useful in detecting bugs in small snippets of code. Though, I believe that many of the errors/bugs I had were easily detectable with a bit of tracing.
 
-### Other uses in ICS 314 not listed
+#### Other uses in ICS 314 not listed
 
 Other than asking ChatGPT for name ideas, I have yet to use AI for this class.
 
