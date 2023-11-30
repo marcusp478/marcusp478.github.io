@@ -14,20 +14,20 @@ My group's project, "Lendor Vendors", is a web-based application which allows it
 
 ## Design Patterns As Seen In Lendor Vendors
 
-<img width="200px" src="../img/gallery3.png">
+<img width="325px" src="../img/gallery3.png">
 
 One example of the design patterns that are found in our code would be the use of the component-based design. Item cards are components whose purpose is to display the name and image of an item in the gallery page, which displays all of the available items up for borrowing. 
 
-<img width="200px" src="../img/profilepage.png">
-<img width="200px" src="../img/requestspage.png">
+<img width="325px" src="../img/profilepage.png">
+<img width="325px" src="../img/requestspage.png">
 
 However, we also use them to display items that belong to a specific user on their profile page and in the "requests page", which displays all of the requests that you've made and the requests made for your items. In order to prevent redundant code, the use of the item card component comes in handy.
 
-<img width="200px" src="../img/gallery1.png">
+<img width="325px" src="../img/gallery1.png">
 
 Another one of the design patterns that we've used is the observer design pattern. To showcase this, I will first talk about the admin role and its capabilities. If a user on our website is an admin, they are granted the ability to remove any of the posted items on the website. To accomplish this, each item card will include a "Delete Post" button that is exclusive only to admins. 
 
-<img width="200px" src="../img/popup.png">
+<img width="325px" src="../img/popup.png">
 
 Upon clicking it, a pop up will appear asking you for confirmation, and by clicking "yes", the item will be deleted from the database and will no longer appear in the gallery.
 
