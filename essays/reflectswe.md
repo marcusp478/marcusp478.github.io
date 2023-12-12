@@ -11,7 +11,7 @@ labels:
   - UI Frameworks
 ---
 
-My experience in taking the class "ICS 314: Software Engineering I" was a combination of accomplishment and frustration. Throughout the semester, we've learned how to use new tools and about new concepts which we've applied and used for our final project. Now that we've finally finished our final projects, based on my current experience, I think that the key to being able to do software related projects are dependent on how much you actually learn and applying what you know to your work. To demonstrate the things I've learned in this class this semester, I will be talking about UI frameworks and coding standards.
+My experience in taking the class "ICS 314: Software Engineering I" was a combination of accomplishment and frustration. Throughout the semester, we've learned how to use new tools and about new concepts which we've applied and used for our final project. Now that we've finally finished our final projects, based on my current experience, I think that the key to being able to do software related projects are dependent on how much you actually learn and applying what you know to your work. To demonstrate a few of the things I've learned in this class this semester, I will be talking about UI frameworks and coding standards.
 
 ## UI Frameworks
 
