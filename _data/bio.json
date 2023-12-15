@@ -1,0 +1,73 @@
+{
+  "basics": {
+    "name": "Marcus Prudencio",
+    "label": "Student",
+    "picture": "https://github.com/marcusp478.png",
+    "email": "marcuspr@hawaii.edu",
+    "phone": "",
+    "website": "https://marcusp478.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "marcusp478", "url": "http://github.com/marcusp478" },
+      { "network": "linkedin", "username": "Marcus Prudencio", "url": "http://linkedin.com/in/marcus-prudencio-803ba8289" }
+    ]
+  },
+  "interests": [
+    { "name": "Software Engineering" },
+    { "name": "Web Development" },
+    { "name": "Tetris" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript", "React Bootstrap", "Meteor" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Windows", "Unix", "PuTTY", "Git/Github" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2025)",
+      "studyType": "B.S.",
+      "startDate": "2021",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "The Institute for Human Services",
+      "website": "https://ihshawaii.org/",
+      "position": "Volunteer",
+      "startDate": "2017",
+      "endDate": "",
+      "summary": "Distributed food to the sheltered homeless in the facility for my school project."
+    },
+    {
+      "organization": "Hawaii Foodbank Inc.",
+      "website": "https://hawaiifoodbank.org/",
+      "position": "Volunteer",
+      "startDate": "2020",
+      "endDate": "",
+      "summary": "Sorted through packaged/canned goods by discarding goods that were over their expiration date and keeping the ones that weren't."
+    }
+  ],
+  "awards": [
+    {
+      "title": "Fall 2022 Manoa Dean's List",
+      "date": "2022",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": ""
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
