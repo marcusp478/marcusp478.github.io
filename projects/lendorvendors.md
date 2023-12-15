@@ -10,6 +10,7 @@ labels:
   - JSX
   - Meteor
   - React Bootstrap
+  - MongoDB
 summary: "Borrow from and lend to other UH Manoa students!"
 ---
 
