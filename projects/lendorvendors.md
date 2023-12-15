@@ -40,13 +40,10 @@ According to both the other team members or those outside of the project group, 
 #### View-Item Page
 
 <img width="1000px" src="../img/lendorvendors/gallery.png">
-
-In order to find the items that you want to borrow, you can view our gallery page which contains many listed items in the form of "cards". 
-
 <img width="500px" src="../img/lendorvendors/originalitem.png">
 <img width="500px" src="../img/lendorvendors/item.png">
 
-Upon clicking one of the cards, you are redirected to a view-item page that contains additional information such as availability, condition, the person lending it, and a button that redirects you to a request-to-borrow form. The design was inspired by the item pages you can find on e-commerce sites such as eBay and Amazon. The initial implementation (1st picture) was done by me and the additional inclusions and styling adjustments were done by my teammates.
+In order to find the items that you want to borrow, you can view our gallery page which contains many listed items in the form of "cards". Upon clicking one of the cards, you are redirected to a view-item page that contains additional information such as availability, condition, the person lending it, and a button that redirects you to a request-to-borrow form. The design was inspired by the item pages you can find on e-commerce sites such as eBay and Amazon. The initial implementation (1st picture) was done by me and the additional inclusions and styling adjustments were done by my teammates.
 
 #### Profile Page
 
