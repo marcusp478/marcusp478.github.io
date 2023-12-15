@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/lendorvendors/discordshrimp.png
 title: "Lendor Vendors"
-date: 2021-10-20
+date: 2023-12-14
 published: true
 labels:
   - Javascript
@@ -23,7 +23,7 @@ With this application, users can put up items for borrowing or become the borrow
 
 The main contributions I made toward this project include designing and implementing the landing/home, item, and profile pages of the web application. Part of this job was to make the pages visually appealing and user-friendly.
 
-### Home 
+#### Home 
 
 The home page, also referred to as the "landing" page, is the first thing you will see when you access our website. Just like the cover of a book, the way it looks could potentially make or break the interest new users will have of the site. This was the initial design of the home page:
 
@@ -36,18 +36,18 @@ As you can see, it's pretty bland and depending on how large your screen display
 
 According to both the other team members or those outside of the project group, it did its job. It also fulfills the original intent of informing new users of what our website offers while also giving it a bit of interactive features with the buttons.
 
-### View-Item Page
+#### View-Item Page
 
 <img width="1000px" src="../img/lendorvendors/gallery.png">
 
 In order to find the items that you want to borrow, you can view our gallery page which contains many listed items in the form of "cards". 
 
 <img width="500px" src="../img/lendorvendors/originalitem.png">
-<img width="500px" src="../img/lendorvendors/profile2.png">
+<img width="500px" src="../img/lendorvendors/item.png">
 
 Upon clicking one of the cards, you are redirected to a view-item page that contains additional information such as availability, condition, the person lending it, and a button that redirects you to a request-to-borrow form. The design was inspired by the item pages you can find on e-commerce sites such as eBay and Amazon. The initial implementation (1st picture) was done by me and the additional inclusions and styling adjustments were done by my teammates.
 
-### Profile Page
+#### Profile Page
 
 <img width="500px" src="../img/lendorvendors/profile1.png">
 <img width="500px" src="../img/lendorvendors/profile2.png">
