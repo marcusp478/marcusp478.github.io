@@ -28,27 +28,27 @@ The main contributions I made toward this project include designing and implemen
 
 The home page, also referred to as the "landing" page, is the first thing you will see when you access our website. Just like the cover of a book, the way it looks could potentially make or break the interest new users will have of the site. This was the initial design of the home page:
 
-<img width="1000px" src="../img/lendorvendors/originalhome.png">
+<img width="1025px" src="../img/lendorvendors/originalhome.png">
 
 As you can see, it's pretty bland and depending on how large your screen display is, the bottom has a lot of whitespace as seen in the photo above. In fact, some of the feedback we've received mentioned this. To make something that might draw the attention of potential users, I got inspiration from a few popular websites and implemented this final design:
 
-<img width="500px" src="../img/lendorvendors/home1.png">
-<img width="500px" src="../img/lendorvendors/home2.png">
+<img width="512px" src="../img/lendorvendors/home1.png">
+<img width="512px" src="../img/lendorvendors/home2.png">
 
 According to both the other team members or those outside of the project group, it did its job. It also fulfills the original intent of informing new users of what our website offers while also giving it a bit of interactive features with the buttons.
 
 #### View-Item Page
 
-<img width="1000px" src="../img/lendorvendors/gallery.png">
-<img width="500px" src="../img/lendorvendors/originalitem.png">
-<img width="500px" src="../img/lendorvendors/item.png">
+<img width="1025px" src="../img/lendorvendors/gallery.png">
+<img width="512px" src="../img/lendorvendors/originalitem.png">
+<img width="512px" src="../img/lendorvendors/item.png">
 
 In order to find the items that you want to borrow, you can view our gallery page which contains many listed items in the form of "cards". Upon clicking one of the cards, you are redirected to a view-item page that contains additional information such as availability, condition, the person lending it, and a button that redirects you to a request-to-borrow form. The design was inspired by the item pages you can find on e-commerce sites such as eBay and Amazon. The initial implementation (1st picture) was done by me and the additional inclusions and styling adjustments were done by my teammates.
 
 #### Profile Page
 
-<img width="500px" src="../img/lendorvendors/profile1.png">
-<img width="500px" src="../img/lendorvendors/profile2.png">
+<img width="512px" src="../img/lendorvendors/profile1.png">
+<img width="512px" src="../img/lendorvendors/profile2.png">
 
 The profile page of a user displays their account information as well as the items they're lending out and the reviews made about them. The information you see in the images above come from data fields in our profiles, items, and reviews database collections. To display everything, I made it so each component/section of the page subscribed to the appropriate collection data. The inclusion of the pagination feature, as well as the collections that were necessary to implement this page were made by my other group members.
 
