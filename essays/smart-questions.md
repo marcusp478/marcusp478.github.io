@@ -1,13 +1,12 @@
 ---
 layout: essay
 type: essay
-title: "Is My Question Smart?"
+title: "Who wrote this essay?"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-05
 published: true
 labels:
-  - Questions
-  - Answers
+  - Q&A
   - StackOverflow
 ---
 
@@ -15,7 +14,7 @@ labels:
 
 ## Stupid Questions Exist!
 
-Asking questions is an important part in the process of learning something new. While you could spend time figuring out things on your own, it's better to reach out for help from people who are knowledgable on the subject rather than attempting to re-invent the wheel. However, it is also important to note that there exists smart questions as well as the opposite. Ideally, you'd want to ask smart questions to get the best responses (or any at all). The essay, "How to Ask Questions The Smart Way" by Eric Steven Raymond gives insight on how to ask smart questions. From my understanding, a smart question fits these general criteria: it contains proper grammar, the problem and the important details relating to it are clearly stated, and the question isn't convoluted and is rather simple and straight to the point. In this essay, we will be looking at examples that classify a question as such. Below, I've provided examples that will help illustrate what exactly a good question is as opposed to a bad question by following the criteria mentioned in Raymond's essay.
+Asking questions is an important part in the process of learning something new. While you could spend time figuring out things on your own, it's better to reach out for help from people who are knowledgeable on the subject rather than attempting to re-invent the wheel. However, it is also important to note that there exists smart questions as well as the opposite. Ideally, you'd want to ask smart questions to get the best responses (or any at all). The essay, "How to Ask Questions The Smart Way" by Eric Steven Raymond gives insight on how to ask smart questions. From my understanding, a smart question fits these general criteria: it contains proper grammar, the problem and the important details relating to it are clearly stated, and the question isn't convoluted and is rather simple and straight to the point. In this essay, we will be looking at examples that classify a question as such. Below, I've provided examples that will help illustrate what exactly a good question is as opposed to a bad question by following the criteria mentioned in Raymond's essay.
 
 ## How To Detect a Smart Question
 
@@ -33,8 +32,6 @@ Take a look at the [HTML Scroll Animation](https://stackoverflow.com/questions/7
 
 Another post on Stack Overflow called, "HTML Image scroll animation [closed]" mentions what the issue they're having is in regards to. They also clearly state what they want to achieve after seeking help, which is to create a smooth scrolling effect when users scroll through their app. However, after stating their goal, they only provide us with this text: "I tried writing javascript that checks the z-value of the image as you scroll and replaces them with a new image as you scroll". Unfortunately, that is all there is to the post. The problem with this is that we don't know exactly what they did code-wise and because of that, we can't pin point the exact thing that's causing the issue in the first place. This serves as a good example for why it's important to be clear and concise when asking for help. 
 
-## Thank you for listening to my TED talk
+## Thanks for reading
 
 To avoid asking "bad questions" on websites such as Stack Overflow, your best bet is to put effort in your post. Double check that what you're asking makes sense, provide code samples that showcase potential error causing problems, and do anything else you deem to be necessary. Basically, don't expect someone to put effort into creating a well thought out response if you haven't done so for your request for help. Expect your energy to be matched.
-
-Thank you for listening to my TED talk.

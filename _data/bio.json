@@ -16,12 +16,12 @@
   "interests": [
     { "name": "Software Engineering" },
     { "name": "Web Development" },
-    { "name": "Programming" }
+    { "name": "" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "React Bootstrap", "Meteor" ]
     },
     {
       "name": "Toolsets/OS",
@@ -54,7 +54,7 @@
       "position": "Volunteer",
       "startDate": "2020",
       "endDate": "",
-      "summary": "Sorted through packaged/canned goods by dismissing goods that were over their expiration date and keeping the ones that weren't."
+      "summary": "Sorted through packaged/canned goods by discarding goods that were over their expiration date and keeping the ones that weren't."
     }
   ],
   "awards": [

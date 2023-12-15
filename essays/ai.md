@@ -28,7 +28,7 @@ Generally, the experience WODs were assigned and due before we were given the in
 
 #### In-class WODs
 
-Similar to the relationship between the in-class and experience WODs, the "real" WODs given to us during the second class of the week were very similar to the practice WOD that was assigned to us earlier in the week. Based on how each week went throughout this semseter, I found that as long as I did well on the experience and in-class WODs and made sure to understand the solutions for both of them, then it shouldn't be hard to apply what I learned to the "real" WOD. 
+Similar to the relationship between the in-class and experience WODs, the "real" WODs given to us during the second class of the week were very similar to the practice WOD that was assigned to us earlier in the week. Based on how each week went throughout this semester, I found that as long as I did well on the experience and in-class WODs and made sure to understand the solutions for both of them, then it shouldn't be hard to apply what I learned to the "real" WOD. 
 
 #### Essays
 
@@ -36,7 +36,7 @@ I haven't considered using AI for my essays since I usually have the time to do 
 
 #### Final project
 
-The only assignment in this class that I've used AI for is the final project, which is for a reason you're probably not thinking of: the title of my teams' web application. To give a bit of background information, our project idea is a service that allows UH Manoa students to borrow listed items on the site from other students so as to not spend money on something you only need temporarily. Since we didn't have any ideas on what to call it, we asked ChatGPT, "Come up with a name for an item lending service where users can list items they're willing to lend other people for a certain period of time or request items from others", which it came up with names like "ShareItHub", "LendCycle", "BorrowBuddy", and so on. Even though they were pretty decent names, we decided not to use any of them. However, this serves as an example of how AI can be advantageous over a Google search since you can ask it questions that normally would only be able to be answered by another human being.
+The only assignment in this class that I've used AI for is the final project, which is for a reason you're probably not thinking of: the title of my teams' web application. Our project idea is a service that allows UH Manoa students to borrow listed items on the site from other students so as to not spend money on something you'll probably only need temporarily. Since we didn't have any ideas on what to call it, we asked ChatGPT, "Come up with a name for an item lending service where users can list items they're willing to lend other people for a certain period of time or request items from others", which it came up with names like "ShareItHub", "LendCycle", "BorrowBuddy", and so on. Even though they were pretty decent names, we decided not to use any of them. However, this serves as an example of how AI can be advantageous over a Google search since you can ask it questions that normally would only be able to be answered by another human being.
 
 #### Learning a concept / tutorial
 
@@ -64,17 +64,17 @@ Although I can't speak from personal experience, I think that the use of AI has 
 
 ## Practical Applications
 
-As I've brought up before, I've used ChatGPT for name ideas for my team and I's project. Even though we didn't use any of the suggestions it gave us, considering that they were fairly decent, I believe that AI can be used for simple tasks like this. If you have a lack of creativity for things like names, why not consider using AI to come up with something instead?
+As I've brought up many times already, I've used ChatGPT to name our project. Even though we didn't use any of the suggestions it gave us, considering that they were fairly decent, I believe that AI can be used for simple tasks like this. If you have a lack of creativity for naming things, why not consider using AI to come up with something instead?
 
 ## Challenges and Opportunities
 
-In regards to my use of ChatGPT for coming up with our project name, one limitation I've noticed is that with each time you ask it the same question, it may or may not give you the same result from before. It's not much of a drawback, but I've learned that being specific in your question is important to get the best results, just like when you search things up on Google.
+One limitation I've noticed is that with each time you ask it the same question, it may or may not give you the same result from before. It's not much of a drawback, but I've learned that being specific in your question is important to get the best results, just like when you search things up on Google.
 
-In my opinion, it doesn't seem like a bad idea for students to continue using AI in software engineering education considering that in theory, it can increase your overall productivity. For example, if something in your code isn't working as intended and you can't seem to pinpoint the exact problem, why not ask ChatGPT where the issue is and how to fix it? But more importantly, as long as its used in a way that improves your education rather than hindering it. In other words, it's important for students to take in the information and learn from it rather than having the answers given to them without comprehending it.
+In my opinion, it doesn't seem like a bad idea for students to continue using AI in software engineering education considering that it can increase your overall productivity. For example, if something in your code isn't working as intended and you can't seem to pinpoint the exact problem, why not ask ChatGPT where the issue is and how to fix it? But more importantly, as long as its used in a way that improves your education rather than hindering it. In other words, it's important for students to take in the information and learn from it rather than having the answers given to them without comprehending it.
 
 ## Comparative Analysis
 
-Similar to an instructor explaining a new concept to the class, AI can potentially achieve the same result if you accurately specify your needs. Generally, tools like ChatGPT will give you trustworthy results, but the more specialized the topic of the question becomes, you can't 100% be sure of what it's telling you. In fact, sometimes it might not even know the answer. Though, if none of those were issues we had to worry about, I imagine AI to be a better version of Google in terms of obtaining reliable information. Since these issues shouldn't be ignored, those who utilize these AI tools should be aware of their drawbacks.
+Similar to an instructor explaining a new concept to the class, AI can potentially achieve the same result if you accurately specify your needs. Generally, tools like ChatGPT will give you trustworthy results, but the more specialized the topic of the question becomes, the more unsure you should become of what it's telling you. In fact, sometimes it might not even know the answer. Though, if none of those were issues we had to worry about, I imagine AI to be a better version of Google in terms of obtaining reliable information. Since these issues shouldn't be ignored, those who utilize these AI tools should be aware of their drawbacks.
 
 ## Future Considerations
 
@@ -82,4 +82,4 @@ As of now, AI can be a useful tool to give bits of information on a certain subj
 
 ## Conclusion
 
-Although I haven't used AI as much, I think that it could be helpful in a couple of areas in software engineering as it is now. However, using it wisely is especially important in order to develop your skills as a software engineer. In conclusion, AI can be viewed as a useful tool by students and instructors alike and whether students use it effectively should be on their own volition.
+Although I haven't used AI as much, I think that it could be helpful in a couple of areas in software engineering as it is now. However, using it wisely is especially important in order to develop your skills as a software engineer. In conclusion, AI can be viewed as a useful tool by students and instructors alike and whether students use it effectively should be up to their own volition.

@@ -4,7 +4,7 @@ type: essay
 title: "What's The Deal With Coding Standards?"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-20
-published: true
+published: false
 labels:
   - ESLint
 ---

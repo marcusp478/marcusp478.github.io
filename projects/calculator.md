@@ -4,7 +4,7 @@ type: project
 image: img/clipartcalc.png
 title: "Calculator"
 date: 2021-10-20
-published: true
+published: false
 labels:
   - Java
 summary: "A functional calculator written in Java for my ICS 211 class."
