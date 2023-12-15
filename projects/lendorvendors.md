@@ -35,7 +35,7 @@ As you can see, it's pretty bland and depending on how large your screen display
 <img width="512px" src="../img/lendorvendors/home1.png">
 <img width="512px" src="../img/lendorvendors/home2.png">
 
-According to both the other team members or those outside of the project group, it did its job. It also fulfills the original intent of informing new users of what our website offers while also giving it a bit of interactive features with the buttons.
+According to both the other team members and those outside of the project group, it did its job. It also fulfills the original intent of informing new users of what our website offers while also giving it a bit of interactive features with the buttons.
 
 #### View-Item Page
 
